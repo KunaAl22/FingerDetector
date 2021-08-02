@@ -1,2 +1,2 @@
 # FingerDetector
-count the number of fingers opened with hand tracking module
+Counts the number of fingers opened which can be used to build some gesture controlled stuff with hand tracking module
